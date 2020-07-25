@@ -1,6 +1,6 @@
 # Human-Pose-Estimation
 
-This Deep Learning based Human Pose Estimation using a pretrained model, OpenPose, with OpenCV.
+A Deep Learning based Human Pose Estimation using a pretrained model, OpenPose, with OpenCV.
  
  Pretrained Model: *https://github.com/CMU-Perceptual-Computing-Lab/openpose/tree/master/models*
  
